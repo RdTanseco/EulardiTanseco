@@ -1,2 +1,2 @@
 # EulardiTanseco
-Eulardi Tanseco Portfolio
+Eulardi Tanseco's Personal Portfolio
